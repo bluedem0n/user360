@@ -2,13 +2,25 @@
 strong { 
 	font-weight: 600; 
 }
+.inline{
+	display: inline-block;
+}
 .f-600 {
 	font-weight: 600;
 }
 .f-400 {
 	font-weight: 400;
 }
-
+.fs-18{
+	font-size: 18px;
+}
+.text-blue{
+    color:#68ADFF;
+}
+/* Margin */
+.mt-5{
+    margin-top: 5%;
+}
 /* Paddings */
 .pd-0{
 	padding: 0;
@@ -35,6 +47,10 @@ strong {
 .pl-5{
 	padding-left: 5%;
 }
+.pl-50{
+	padding-left: 50%;
+}
+
 .pl-1{
 	padding-left: 1%;
 }
