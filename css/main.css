@@ -1,10 +1,14 @@
 /* HEADER NAV */
+body{
+	overflow:hidden;
+}
 header{
 	background:transparent;
 }
 .logo{
     width: 70%;
     background:rgba(78,78,78,0.10);
+	
 }
 
 /* HERO */
