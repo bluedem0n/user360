@@ -1,12 +1,5 @@
 /* HEADER NAV */
 
-<<<<<<< HEAD
-body {
-	overflow: hidden;
-}
-
-=======
->>>>>>> dfeb4d59f7bed952aea84cfcebfc8e2fa9fdb5ec
 header {
 	background: transparent;
 }
@@ -22,11 +15,7 @@ header {
 .bg-hero {
 	background-image: url("../image/large.jpg");
 	height: 660px;
-<<<<<<< HEAD
-	background-repeat: none;
-=======
 	background-repeat: no-repeat;
->>>>>>> dfeb4d59f7bed952aea84cfcebfc8e2fa9fdb5ec
 	background-size: cover;
 }
 
@@ -57,10 +46,7 @@ header {
 	width: 100%;
 	background-color: rgba(78, 126, 184, 0.9);
 	height: 24%;
-<<<<<<< HEAD
-=======
 	padding: 1em;
->>>>>>> dfeb4d59f7bed952aea84cfcebfc8e2fa9fdb5ec
 }
 
 .btn-default {
@@ -166,13 +152,10 @@ header {
 	color: white;
 }
 
-<<<<<<< HEAD
-=======
 .icono-glass {
 	margin: -36px -60px 0px !important;
 }
 
->>>>>>> dfeb4d59f7bed952aea84cfcebfc8e2fa9fdb5ec
 .contenedor-icon {
 	width: 70px;
 	height: 70px;
@@ -203,11 +186,7 @@ header {
 	background-color: rgba(53, 125, 167, 0.8);
 	height: 24%;
 	width: 100%;
-<<<<<<< HEAD
-	padding: 0px;
-=======
 	padding: 1em;
->>>>>>> dfeb4d59f7bed952aea84cfcebfc8e2fa9fdb5ec
 }
 
 
@@ -240,8 +219,6 @@ footer i {
 .datos {
 	display: inline-block;
 	text-align: left;
-<<<<<<< HEAD
-=======
 }
 
 
@@ -296,5 +273,4 @@ footer i {
 	display: inline-block;
 	height: 20px;
 	margin-right: 15px;
->>>>>>> dfeb4d59f7bed952aea84cfcebfc8e2fa9fdb5ec
 }
